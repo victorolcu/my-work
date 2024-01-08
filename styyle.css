@@ -1,0 +1,23 @@
+body{
+background-color:white;
+}
+h1{
+    color: red;
+}
+p{
+    color: blue;
+}
+.navbar{
+    list-style-type: none;
+    margin: 2rem;
+    padding: 2rem;
+}
+.navbar li {
+
+display: inline;
+}
+.navbar a{
+    color: pink;
+    margin: 1rem;
+    text-decoration:;
+}
